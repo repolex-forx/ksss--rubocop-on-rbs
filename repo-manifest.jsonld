@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ksss/rubocop-on-rbs/commit/e42b63f984ff4fff923a1e856a66763a55591029",
       "git:hexsha": "e42b63f984ff4fff923a1e856a66763a55591029",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:07:17.341161+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ksss/rubocop-on-rbs/commit/6048fa47f87171437be2ad1ebc553be6ed2229e9",
