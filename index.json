@@ -1,0 +1,11 @@
+{
+  "org": "ksss",
+  "repo": "rubocop-on-rbs",
+  "versions": [
+    {
+      "commit": "e42b63f984ff4fff923a1e856a66763a55591029",
+      "tag": "",
+      "parsed_at": "2026-11-10T07:07:17.341711+00:00"
+    }
+  ]
+}
